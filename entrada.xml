@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<datosMarte>
+<listaOrganismos>
+<organismo><codigo>[101]</codigo><nombre>[Organizmo1]</nombre></organismo>
+<organismo><codigo>[102]</codigo><nombre>[Organizmo2]</nombre></organismo>
+<organismo><codigo>[103]</codigo><nombre>[Organizmo3]</nombre></organismo>
+<organismo><codigo>[104]</codigo><nombre>[Organizmo4]</nombre></organismo>
+</listaOrganismos>
+
+<listadoMuestras>
+<muestra><codigo>[101]</codigo><descripcion>[muestra1]</descripcion><filas>[100]</filas><columnas>[100]</olumnas>
+<listadoCeldasVivas>
+<celdaViva><fila>[120]</fila><columna>[121]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[130]</fila><columna>[131]</columna><codigoOrganismo>[102]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[140]</fila><columna>[141]</columna><codigoOrganismo>[103]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[104]<codigoOrganismo> </celdaViva>
+/listadoCeldasVivas>
+</muestra>
+
+<muestra><codigo>[201]</codigo><descripcion>[muestra2]</descripcion><filas>[200]</filas><columnas>[100]</columnas>
+<listadoCeldasVivas>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+/listadoCeldasVivas>
+</muestra>
+
+<muestra><codigo>[201]</codigo><descripcion>[muestra2]</descripcion><filas>[200]</filas><columnas>[100]</columnas>
+<listadoCeldasVivas>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+/listadoCeldasVivas>
+</muestra>
+
+<muestra><codigo>[201]</codigo><descripcion>[muestra2]</descripcion><filas>[200]</filas><columnas>[100]</columnas>
+<listadoCeldasVivas>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+<celdaViva><fila>[150]</fila><columna>[151]</columna><codigoOrganismo>[101]<codigoOrganismo> </celdaViva>
+/listadoCeldasVivas>
+</muestra>
+
+</listadoMuestras>
+</datosMarte>
