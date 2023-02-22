@@ -1,4 +1,5 @@
-# proyectos-ipc2-secc_b
+# IPC2_Proyecto1_9516098
+
 Proyectos del primer semestre 2023 del curso Introducción a la Programación y Computación 2
 end readme
 
