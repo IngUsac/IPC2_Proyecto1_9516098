@@ -18,8 +18,8 @@
         <muestra>
             <codigo>Muestra 1</codigo>
             <descripcion>Muestra recolectada en la Superficie M-67</descripcion>
-            <filas>5</filas>
-            <columnas>5</columnas>
+            <filas>15</filas>
+            <columnas>10</columnas>
             <listadoCeldasVivas>
                 <celdaViva>
                     <fila>1</fila>
@@ -61,8 +61,8 @@
         <muestra>
             <codigo>Baby Let me down easy</codigo>
             <descripcion>Muestra recolectada en la Superficie M-67</descripcion>
-            <filas>5</filas>
-            <columnas>5</columnas>
+            <filas>15</filas>
+            <columnas>10</columnas>
             <listadoCeldasVivas>
                 <celdaViva>
                     <fila>1</fila>
